@@ -4,6 +4,8 @@ This plugin for Hyper adds vertical (well, left, actually) tabs.   If you use iT
 
 Well, anyway, look at the screenshot.
 
+![hyper-vertical-tabs](https://raw.githubusercontent.com/randallsquared/references/master/images/hyper-vertical-tabs.png)
+
 
 If you want that, use this plugin.   There are a number of problems, though...
 
