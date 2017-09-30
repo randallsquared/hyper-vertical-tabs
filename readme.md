@@ -2,7 +2,7 @@
 
 This plugin for Hyper adds vertical (well, left, actually) tabs.   If you use iTerm2 on Mac, and use its tabs-on-the-left setting, and can't find a similarly configurable terminal on Linux except Roxterm which is end-of-lifed and is broken on Wayland due to incompatible use of transparency putting a wide border around the wind--- &lt;deep breath&gt;.
 
-Well, anyway, look at the screenshot.
+Well, anyway, look at the screenshot, made more classy with [hyperline](https://www.npmjs.com/package/hyperline) there at the bottom.
 
 ![hyper-vertical-tabs](https://raw.githubusercontent.com/randallsquared/references/master/images/hyper-vertical-tabs.png)
 
