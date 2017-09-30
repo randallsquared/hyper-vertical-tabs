@@ -1,0 +1,24 @@
+{
+  "name": "hyper-vertical-tabs",
+  "version": "0.1.0",
+  "description": "Vertical Tabs Plugin for Hyper",
+  "main": "index.js",
+  "license": "Unlicense",
+  "repository": "https://github.com/randallsquared/hyper-vertical-tabs",
+  "author": {
+    "name": "Randall Randall",
+    "email": "randall@randallsquared.com"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "hyper",
+    "hyper-tabs",
+    "hyper-vertical-tabs",
+    "hyperterm",
+    "hyperterm-tabs",
+    "hyperterm-vertical-tabs",
+    "vertical-tabs"
+  ]
+}
