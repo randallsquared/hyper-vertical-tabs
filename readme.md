@@ -4,7 +4,7 @@ This plugin for Hyper adds vertical (well, left, actually) tabs.   If you use iT
 
 Well, anyway, look at the screenshot, made more classy with [hyperline](https://www.npmjs.com/package/hyperline) there at the bottom.
 
-![hyper-vertical-tabs](https://raw.githubusercontent.com/randallsquared/references/master/images/hyper-vertical-tabs.png)
+![hyper-vertical-tabs](https://raw.githubusercontent.com/randallsquared/hyper-vertical-tabs/master/images/hyper-vertical-tabs.png)
 
 
 If you want that, use this plugin.   There are a number of problems, though...
@@ -24,5 +24,8 @@ This has hardcoded values that I like:
 * width is 120px; tab heights are 22px
 * background runs all the way down the left, rather than stopping when the tabs do
 * hugs the left, rather than whichever side you configure it to (hint: you can't configure it)
-* ...it's not configurable
+
+## roadmap
+
+Did I mention it's not configurable?  It should be.   Improving this is fairly low on my TODO list, since it works for me, but I might revisit it.  I will definitely revisit it for pull requests.
 
